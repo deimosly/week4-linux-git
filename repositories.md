@@ -12,3 +12,12 @@ main
 ## Remotes
 origin	git@github.com:deimosly/week4-linux-git.git (fetch)
 origin	git@github.com:deimosly/week4-linux-git.git (push)
+
+## Week 2 Python Repository
+
+Repository URL:
+https://github.com/deimosly/week2-python
+
+Last five commits:
+
+
