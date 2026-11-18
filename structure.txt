@@ -1,0 +1,28 @@
+DEV			linux_commands.md
+
+./DEV:
+week1	week2	week3	week4
+
+./DEV/week1:
+notes.md
+
+./DEV/week2:
+random_program.py
+
+./DEV/week3:
+week3_notes
+
+./DEV/week3/week3_notes:
+
+./DEV/week4:
+data		notes		README.md	src
+
+./DEV/week4/data:
+linux_backup.md
+
+./DEV/week4/notes:
+linux_commands.md	linux.md
+
+./DEV/week4/src:
+random_program.py
+
